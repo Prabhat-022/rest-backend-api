@@ -1,0 +1,3 @@
+// controllers 
+1)Logout controllers
+2)update user informations 
